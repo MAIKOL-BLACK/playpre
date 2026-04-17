@@ -2603,7 +2603,7 @@
         "name": "BRASIL PACK PREMIUM",
         "samples": [
             {
-                "name": "HBO",
+                "name": "HBO1",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbo.m3u8",
                 "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
                 "type": "HLS",
