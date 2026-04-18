@@ -2192,6 +2192,60 @@
         ]
     },
     {
+        "name": "BRASIL PACK PREMIUM",
+        "samples": [
+            {
+                "name": "HBO1",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbo.m3u8",
+                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HBO 2",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbo2.m3u8",
+                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HBO EXTREME",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hboxtreme.m3u8",
+                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HBO POP",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbopop.m3u8",
+                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HBO FAMILY",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbofamily.m3u8",
+                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HBO PLUS",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hboplus.m3u8",
+                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HBO MUNDI",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbomundi.m3u8",
+                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "BRASIL",
         "samples": [
             {
@@ -2308,60 +2362,6 @@
                 "name": "TELESUR",
                 "url": "http://localhost.apppelis.es/solplay/111.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telesur_1327f99888644973a4c5501f802660de.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "BRASIL PACK PREMIUM",
-        "samples": [
-            {
-                "name": "HBO1",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbo.m3u8",
-                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "HBO 2",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbo2.m3u8",
-                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "HBO EXTREME",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hboxtreme.m3u8",
-                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "HBO POP",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbopop.m3u8",
-                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "HBO FAMILY",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbofamily.m3u8",
-                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "HBO PLUS",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hboplus.m3u8",
-                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "HBO MUNDI",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbomundi.m3u8",
-                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
