@@ -2636,6 +2636,13 @@
                 "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "HBO PLUS",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hboplus.m3u8",
+                "icono": "https://i.postimg.cc/XJp0qJ9N/download-(57).png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
