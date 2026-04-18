@@ -62,19 +62,6 @@
                 "icono": "https://i.postimg.cc/HkYtdthY/06-LF11-Real-Madrid-CF-Web-Hero-3200x2000-02-CAT-1x.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "PRUEBA",
-                "url": "\"name\": \"GH-24/7\",         \"url\": \"https://46925e69ccf445e09667cb17c8bb4f2c.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1282/1282_GRAN_HERMANO_24HRS_DASH/manifest.mpd\",         \"type\": \"CLEARKEY\",         \"icono\": \"https://github.com/mac-donal/56/releases/download/dias/GH2026.png\",         \"drm_license_uri\": \"ACAPONES TU URLDEL KEY\",         \"headers\": {       \"cookie\": \"hdntl=exp=1776578649~acl=%2F*~id=4d0350ec-537d-5b35-a386-e0852e581804~data=hdntl~hmac=c88e3b46d4a32b2e7229617ba8af8cede3801aa5b18f0e3e6377a8afc61b96c9\",           \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\",           \"Origin\": \"https://www.directvgo.com\",           \"Referer\": \"https://www.directvgo.com/\"         }       },       {",
-                "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=OqiGVhiROMKZtyumTdOALg&key=SkZX-dXWuIGx1geIxupj7g",
-                "headers": {
-                    "cookie": "hdntl=exp=1776578649~acl=%2F*~id=4d0350ec-537d-5b35-a386-e0852e581804~data=hdntl~hmac=c88e3b46d4a32b2e7229617ba8af8cede3801aa5b18f0e3e6377a8afc61b96c9",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-                    "Origin": "https://www.directvgo.com",
-                    "Referer": "https://www.directvgo.com/"
-                }
             }
         ]
     },
