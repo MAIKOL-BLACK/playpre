@@ -2314,67 +2314,6 @@
         ]
     },
     {
-        "name": "TV INTERNACIONAL",
-        "samples": [
-            {
-                "name": "CNN ESPANOL",
-                "url": "http://localhost.apppelis.es/solplay/144.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cnn_9b6a176c51db43d688e136efdc273893.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CCTV 4US",
-                "url": "http://localhost.apppelis.es/solplay/104.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cctv-4us_4ca496c777f444b8ad81ac2b74a3c297.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CGTN ESP",
-                "url": "http://localhost.apppelis.es/solplay/105.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cgtn-esp_048c77646c27464f81c087b8a8831fa2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RT",
-                "url": "http://localhost.apppelis.es/solplay/110.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/rt-doc_abb56512fe444472862fc67179d4061a.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BBC News",
-                "url": "http://localhost.apppelis.es/solplay/143.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/bbc-news_ee21a577ad15444a87a852b4b6506415.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "EWTN",
-                "url": "http://localhost.apppelis.es/solplay/145.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/ewtn_0f73eafd08d6451a8d952db6f9d2748e.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FRANCE 24",
-                "url": "http://localhost.apppelis.es/solplay/159.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/france-24_09bf41689d534167b098d15fcd38801a.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TELESUR",
-                "url": "http://localhost.apppelis.es/solplay/111.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telesur_1327f99888644973a4c5501f802660de.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "EVENTOS PRUEBAS⚽️",
         "samples": [
             {
