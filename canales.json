@@ -2317,13 +2317,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/rede-tv_90b5423b189a4c43b1d86b3bfd12eee5.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "AGRO CANAL",
-                "url": "http://localhost.apppelis.es/solplay/41.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/agro-canal_49491f3da3d2411b80b6ea1a137ad9b6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
