@@ -222,6 +222,13 @@
                 "icono": "https://i.postimg.cc/bN3XD7St/Whats-App-Image-2026-04-26-at-3-19-21-PM.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "PROGRESO TV",
+                "url": "https://live20.bozztv.com/giatv/giatv-progresotvhd/progresotvhd/playlist.m3u8",
+                "icono": "https://i.postimg.cc/NMYbx0Wq/Whats-App-Image-2026-04-16-at-7-25-43-PM.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
