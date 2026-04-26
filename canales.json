@@ -1744,6 +1744,46 @@
         ]
     },
     {
+        "name": "HOLDING TOVADOR DIGITAL",
+        "samples": [
+            {
+                "name": "TROVADOR TV DIGITAL",
+                "url": "https://video.streamradiomax.com/live/sk_raYKeztuWysqi3ZgRxSegPDM.m3u8",
+                "icono": "https://i.postimg.cc/bN3XD7St/Whats-App-Image-2026-04-26-at-3-19-21-PM.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PRPOGRESO TV CARAPEGUA",
+                "url": "https://videostream.shockmedia.com.ar:19360/progresotv/progresotv.m3u8",
+                "icono": "https://i.postimg.cc/NMYbx0Wq/Whats-App-Image-2026-04-16-at-7-25-43-PM.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CAUSA COMUN TV",
+                "url": "https://videostream.shockmedia.com.ar:19360/causacomuntvhd/causacomuntvhd.m3u8",
+                "icono": "https://i.postimg.cc/x125KRB0/Whats-App-Image-2026-04-26-at-3-22-49-PM.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FUENTE PARAGUAY",
+                "url": "https://live20.bozztv.com/akamaissh101/ssh101/fuentetvhd/playlist.m3u8",
+                "icono": "https://i.postimg.cc/c4Zthb1z/Whats-App-Image-2026-04-26-at-3-22-50-PM-(2).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VISION TV",
+                "url": "https://live20.bozztv.com/akamaissh101/ssh101/nnvisiontv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/P57qg3H4/Whats-App-Image-2026-04-26-at-3-22-50-PM-(1).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "PACK HBO Y UNIVERSAL 🎥",
         "samples": [
             {
@@ -1833,46 +1873,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "name": "HOLDING TOVADOR DIGITAL",
-        "samples": [
-            {
-                "name": "TROVADOR TV DIGITAL",
-                "url": "https://video.streamradiomax.com/live/sk_raYKeztuWysqi3ZgRxSegPDM.m3u8",
-                "icono": "https://i.postimg.cc/bN3XD7St/Whats-App-Image-2026-04-26-at-3-19-21-PM.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PRPOGRESO TV CARAPEGUA",
-                "url": "https://videostream.shockmedia.com.ar:19360/progresotv/progresotv.m3u8",
-                "icono": "https://i.postimg.cc/NMYbx0Wq/Whats-App-Image-2026-04-16-at-7-25-43-PM.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CAUSA COMUN TV",
-                "url": "https://videostream.shockmedia.com.ar:19360/causacomuntvhd/causacomuntvhd.m3u8",
-                "icono": "https://i.postimg.cc/x125KRB0/Whats-App-Image-2026-04-26-at-3-22-49-PM.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FUENTE PARAGUAY",
-                "url": "https://live20.bozztv.com/akamaissh101/ssh101/fuentetvhd/playlist.m3u8",
-                "icono": "https://i.postimg.cc/c4Zthb1z/Whats-App-Image-2026-04-26-at-3-22-50-PM-(2).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "VISION TV",
-                "url": "https://live20.bozztv.com/akamaissh101/ssh101/nnvisiontv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/P57qg3H4/Whats-App-Image-2026-04-26-at-3-22-50-PM-(1).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
