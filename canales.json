@@ -215,6 +215,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
+            },
+            {
+                "name": "TROVADOR TV DIGITAL",
+                "url": "https://video.streamradiomax.com/live/sk_raYKeztuWysqi3ZgRxSegPDM.m3u8",
+                "icono": "https://i.postimg.cc/bN3XD7St/Whats-App-Image-2026-04-26-at-3-19-21-PM.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
