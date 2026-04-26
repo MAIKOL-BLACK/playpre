@@ -2314,32 +2314,6 @@
         ]
     },
     {
-        "name": "EVENTOS PRUEBAS⚽️",
-        "samples": [
-            {
-                "name": "Evento 1",
-                "url": "http://177.53.152.117:8000/play/a07t/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Evento 2",
-                "url": "http://177.53.152.117:8000/play/a07l/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Evento 3",
-                "url": "http://177.53.152.117:8000/play/a07h/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "HOLDING TOVADOR DIGITAL",
         "samples": [
             {
@@ -2374,6 +2348,32 @@
                 "name": "VISION TV",
                 "url": "https://live20.bozztv.com/akamaissh101/ssh101/nnvisiontv/playlist.m3u8",
                 "icono": "https://i.postimg.cc/P57qg3H4/Whats-App-Image-2026-04-26-at-3-22-50-PM-(1).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "EVENTOS PRUEBAS⚽️",
+        "samples": [
+            {
+                "name": "Evento 1",
+                "url": "http://177.53.152.117:8000/play/a07t/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Evento 2",
+                "url": "http://177.53.152.117:8000/play/a07l/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Evento 3",
+                "url": "http://177.53.152.117:8000/play/a07h/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
