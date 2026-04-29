@@ -1678,7 +1678,12 @@
                 "url": "https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjUyNzg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM3Mjk0Zjk4NzZjZmNhZjQiLCJzZXNzaW9uX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQtMTc3NzQ3OTk4OC00ODUiLCJjbGllbnRfaWQiOiJmbG93OjM2MTAwOTMtLWZsb3c6MzYxMDA5MzpQIiwiZGV2aWNlX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI1OCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.MwdT7MTSxB-Aqax8N0DDWjPCgQNVj4KthB5E8StDUjv0aWo3VFR712UARKnOelKfMhskiXRvv1HenrFcc2t1SA==/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=b7d085dbd4539afcc6a55445efb2b04e&key=0a55fbe044fed379d1632b589265b571",
-                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
+                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
             {
                 "name": "WARNER CHANNEL",
