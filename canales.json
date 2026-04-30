@@ -2368,13 +2368,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "RECORD NEWS",
-                "url": "http://localhost.apppelis.es/solplay/36.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record-news_82e1824cfcf3478b8a6783b775409908.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "BAND ",
                 "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
