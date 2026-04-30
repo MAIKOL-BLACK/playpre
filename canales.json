@@ -2661,5 +2661,17 @@
                 "drm_license_uri": ""
             }
         ]
+    },
+    {
+        "name": "INFANTILES IZZI GO",
+        "samples": [
+            {
+                "name": "CARTOON NETWORK",
+                "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=85d06ba283f3b18bb14f9f8d59b8fb82&key=6659fed472544289adee986c1d33fa79"
+            }
+        ]
     }
 ]
