@@ -2333,13 +2333,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/zj8567s3qmpkejhto07hf/clearkey_cartoonito.json?rlkey=ciiw3r5ok5u2kzo27wgclmofu&st=ha38nc8j&dl=0",
                 "icono": "https://i.ibb.co/rx04nzW/cartoonito.png"
-            },
-            {
-                "name": "BABY TV",
-                "url": "http://localhost.apppelis.es/solplay/139.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/baby-tv_baa5e8d77f534816b91c7057e7293aec.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
