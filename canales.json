@@ -2283,6 +2283,39 @@
         ]
     },
     {
+        "name": "BRASIL",
+        "samples": [
+            {
+                "name": "GLOBO RBS",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/globorj.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SBT",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RECORD ",
+                "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BAND ",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "INFANTILES 👦",
         "samples": [
             {
@@ -2340,39 +2373,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/zj8567s3qmpkejhto07hf/clearkey_cartoonito.json?rlkey=ciiw3r5ok5u2kzo27wgclmofu&st=ha38nc8j&dl=0",
                 "icono": "https://i.ibb.co/rx04nzW/cartoonito.png"
-            }
-        ]
-    },
-    {
-        "name": "BRASIL",
-        "samples": [
-            {
-                "name": "GLOBO RBS",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/globorj.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SBT",
-                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RECORD ",
-                "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BAND ",
-                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
