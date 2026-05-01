@@ -2347,13 +2347,6 @@
         "name": "BRASIL",
         "samples": [
             {
-                "name": "GLOBO RPC",
-                "url": "http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rpc_3b35b67e24c04bf4b443c63b8e2cab66.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "GLOBO RBS",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/globorj.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
