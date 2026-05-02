@@ -2402,7 +2402,7 @@
                 "name": "CARTOONITO",
                 "url": "https://zap-live2-ott.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
                 "icono": "https://i.postimg.cc/g2XCXB0M/download-2026-05-01T213649-289.jpg",
-                "type": "HLS",
+                "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid= 3fc370ab08218da5dad9b9644f1df57b&key=1ddc60916c0efd29990cb1d319e7710a"
             }
         ]
