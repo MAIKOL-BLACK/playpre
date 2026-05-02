@@ -2397,6 +2397,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
                 "type": "HLS",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9201c07931b74c37c4e30a9e96b64c30&key=8e1ce4f1b1185f64e42f9974cbad1442"
+            },
+            {
+                "name": "CARTOONITO",
+                "url": "https://zap-live2-ott.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
+                "icono": "https://i.postimg.cc/g2XCXB0M/download-2026-05-01T213649-289.jpg",
+                "type": "HLS",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid= 3fc370ab08218da5dad9b9644f1df57b&key=1ddc60916c0efd29990cb1d319e7710a"
             }
         ]
     },
