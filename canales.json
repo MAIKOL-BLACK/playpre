@@ -2382,6 +2382,25 @@
         ]
     },
     {
+        "name": "INFANTILES IZZI GO",
+        "samples": [
+            {
+                "name": "CARTOON NETWORK",
+                "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=85d06ba283f3b18bb14f9f8d59b8fb82&key=6659fed472544289adee986c1d33fa79"
+            },
+            {
+                "name": "DISCOVERY KIDS",
+                "url": "https://zap-live2-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
+                "type": "HLS",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9201c07931b74c37c4e30a9e96b64c30&key=8e1ce4f1b1185f64e42f9974cbad1442"
+            }
+        ]
+    },
+    {
         "name": "EVENTOS PRUEBAS⚽️",
         "samples": [
             {
@@ -2404,25 +2423,6 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "INFANTILES IZZI GO",
-        "samples": [
-            {
-                "name": "CARTOON NETWORK",
-                "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=85d06ba283f3b18bb14f9f8d59b8fb82&key=6659fed472544289adee986c1d33fa79"
-            },
-            {
-                "name": "DISCOVERY KIDS",
-                "url": "https://zap-live2-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
-                "type": "HLS",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9201c07931b74c37c4e30a9e96b64c30&key=8e1ce4f1b1185f64e42f9974cbad1442"
             }
         ]
     },
