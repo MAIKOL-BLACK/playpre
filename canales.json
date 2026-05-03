@@ -2317,6 +2317,13 @@
                     "Referer": "https://rdcplayer.online/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "MULTI SHOWS",
+                "url": "https://canaiss.fazoeli.co.za/token/0f459cc83b0495842b708ab04c921855/multishow.m3u8",
+                "icono": "https://i.postimg.cc/DZjfgFjF/images-(1).png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
