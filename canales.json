@@ -2108,18 +2108,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed"
             },
             {
-                "name": "NAT GEO WILD",
-                "url": "http://ecuatvip.com/EstoEsTv/98tnQmKnWJ/414420.ts",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/rp3dm99v/download-39.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                }
-            },
-            {
                 "name": "National Geographic",
                 "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MDAwNDg4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjcwMTcxZjMzNDZlOGI0MiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjYyIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.5aZ1LpTrIerc0tL3ZvMKyl4hTipWvRQv8BSCmV-uCUr462iMy1CiLjwmuBoCCci_8trWdXXXfc10jzqcCSf2iQ==/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
                 "type": "CLEARKEY",
