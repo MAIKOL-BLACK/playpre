@@ -1798,6 +1798,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png"
             },
             {
+                "name": "Film & Arts",
+                "url": "https://edge-live17-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MTMwMTQ4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMDliYWZiOGUxYjYzNjdkMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.QCNlV5hGX-_rRjhu-mAh8tzGVvASa0ZqXnGGBtbeD5vFzZNHkVvQuNVXp2GX-f8-rzYYP0f963KQota_8bZcyA==/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962"
+            },
+            {
                 "name": "COMEDY CENTRAL",
                 "url": "https://edge-live17-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MTMwMTQ4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMDliYWZiOGUxYjYzNjdkMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.QCNlV5hGX-_rRjhu-mAh8tzGVvASa0ZqXnGGBtbeD5vFzZNHkVvQuNVXp2GX-f8-rzYYP0f963KQota_8bZcyA==/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
                 "type": "CLEARKEY",
@@ -1817,13 +1824,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=b47f257df0314d09a7f8355c3abe1dc6&key=bdc9f1696a82ee7398dd3a7fa82300e2"
-            },
-            {
-                "name": "Film & Arts",
-                "url": "https://edge-live17-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MTMwMTQ4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMDliYWZiOGUxYjYzNjdkMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.QCNlV5hGX-_rRjhu-mAh8tzGVvASa0ZqXnGGBtbeD5vFzZNHkVvQuNVXp2GX-f8-rzYYP0f963KQota_8bZcyA==/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962"
             }
         ]
     },
