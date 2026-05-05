@@ -2194,13 +2194,6 @@
                 }
             },
             {
-                "name": "TELENOVELAS",
-                "url": "http://localhost.apppelis.es/solplay/168.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telenovelas_5f4d1ad8fd5e47828047ef72b86c1451.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "TELEMUNDO",
                 "url": "http://localhost.apppelis.es/solplay/169.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telemundo_5bdd66f804a2433d90de8e2aad93f0b2.png",
