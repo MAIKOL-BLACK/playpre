@@ -646,13 +646,13 @@
             },
             {
                 "name": "SKY SPORT LA LIGA FHD",
-                "url": "http://200.58.64.244:9000/play/a01h/index.m3u8",
+                "url": "https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
                 "icono": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
+                    "Origen": "https://portal.app.flow.com.py",
+                    "Referente": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
