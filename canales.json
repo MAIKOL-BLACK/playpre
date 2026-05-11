@@ -43,17 +43,6 @@
                 "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "LANC 3",
-                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/69865e9c97/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-                "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://magisvideo.com/KEYFLOW/TIGO3.json",
-                "headers": {
-                    "Origin": "https://www.tigosports.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             }
         ]
     },
