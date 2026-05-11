@@ -3,6 +3,13 @@
         "name": "LANCTV",
         "samples": [
             {
+                "name": "LANCE 24/7  Opc.2",
+                "url": "https://sam-py-edge03.tigo.com.py/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+                "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "LANC1",
                 "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
                 "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
@@ -19,13 +26,6 @@
             {
                 "name": "LANC 3 OPC1",
                 "url": "https://183.bozztv.com/ssh101/ssh101/myevents/playlist.m3u8",
-                "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LANCE 24/7  Opc.2",
-                "url": "https://sam-py-edge03.tigo.com.py/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
                 "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
