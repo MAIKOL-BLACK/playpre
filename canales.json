@@ -836,7 +836,7 @@
             },
             {
                 "name": "FOX ONE",
-                "url": "https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
                 "icono": "http://i.ibb.co/9fTRkSF/foxone.png",
                 "type": "HLS",
                 "drm_license_uri": ""
