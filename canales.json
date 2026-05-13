@@ -589,6 +589,13 @@
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c"
             },
             {
+                "name": "DIRECTV OPC 2",
+                "url": "https://cara-cdn5.netuno.cdn.moderntv.eu/netuno/stream/DSPORTS_LL/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Dnetuno%2Cresource%3DDSPORTS_LL_stream_wh&_cdn_session=16135476232&_cdn_token=5b0d2974aecabec2c988d955668eec117aed5e7a",
+                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "DIRECTV SPORT 2",
                 "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
                 "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
@@ -600,13 +607,6 @@
                 "url": "https://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd",
                 "icono": "http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DIRECTV OPC 2",
-                "url": "https://cara-cdn5.netuno.cdn.moderntv.eu/netuno/stream/DSPORTS_LL/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Dnetuno%2Cresource%3DDSPORTS_LL_stream_wh&_cdn_session=16135476232&_cdn_token=5b0d2974aecabec2c988d955668eec117aed5e7a",
-                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
