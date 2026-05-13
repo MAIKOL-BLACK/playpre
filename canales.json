@@ -1605,7 +1605,7 @@
             },
             {
                 "name": "ESPN 2",
-                "url": "https://npmuf25xa05so8hp05.cloudfronte.lat/zzzstream/espn2.m3u8",
+                "url": "http://46.151.196.223:14438/",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
                 "type": "HLS",
                 "drm_license_uri": ""
