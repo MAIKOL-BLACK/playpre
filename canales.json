@@ -2672,6 +2672,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 2",
+                "url": "https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
