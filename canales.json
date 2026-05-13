@@ -95,6 +95,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png"
             },
             {
+                "name": "C9N  ",
+                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png"
+            },
+            {
                 "name": "PARAVISION  ",
                 "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
                 "type": "CLEARKEY",
@@ -126,13 +133,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/unicanal_400d422fe95f40ff8d32d2442cb47d21.png"
-            },
-            {
-                "name": "C9N  ",
-                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png"
             },
             {
                 "name": "MEGA TV  PY",
