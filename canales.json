@@ -17,15 +17,15 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
             },
             {
-                "name": "LANCE 24/7  Opc.2",
-                "url": "https://sam-py-edge06.tigo.com.py/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+                "name": "LANC 3 OPC1",
+                "url": "https://183.bozztv.com/ssh101/ssh101/myevents/playlist.m3u8",
                 "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
             },
             {
-                "name": "LANC 3 OPC1",
-                "url": "https://183.bozztv.com/ssh101/ssh101/myevents/playlist.m3u8",
+                "name": "LANCE 24/7  Opc.2",
+                "url": "https://sam-py-edge06.tigo.com.py/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
                 "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
