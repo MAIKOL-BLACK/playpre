@@ -24,6 +24,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "LANC 3 OPC 2",
+                "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a010b0f7e/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+                "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "LANCE 4",
                 "url": "https://sam-py-edge09.tigo.com.py/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
                 "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
@@ -40,13 +47,6 @@
             {
                 "name": "LANC 6",
                 "url": "https://live.enhdtv.com:8081/8148/index.m3u8",
-                "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LANC 3 OPC 2",
-                "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a010b0f7e/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
                 "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
                 "type": "HLS",
                 "drm_license_uri": ""
