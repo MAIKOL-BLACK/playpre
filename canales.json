@@ -67,6 +67,13 @@
                     "Referer": "https://vytvhz1a5xq.s3.us-east-1.amazonaws.com/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "DISNEY 2",
+                "url": "https://api.videx.lol/keyvidex.php?keyvidex=videx&stream=/disney2/index.m3u8",
+                "icono": "https://i.postimg.cc/Y9YSkZHs/descarga-(2).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
