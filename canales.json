@@ -57,13 +57,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "EVENTOS  2 🏆",
-                "url": "http://181.118.158.103:8000/play/a038/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/HkYtdthY/06-LF11-Real-Madrid-CF-Web-Hero-3200x2000-02-CAT-1x.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "BARCELONA VS REAL MADRID",
                 "url": "https://77x1441i98n5.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
                 "icono": "https://i.postimg.cc/WzYtMYcv/descarga.jpg",
