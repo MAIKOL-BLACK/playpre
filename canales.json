@@ -18,7 +18,7 @@
             },
             {
                 "name": "LANC 3",
-                "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0f7e/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a062d283d/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
                 "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
