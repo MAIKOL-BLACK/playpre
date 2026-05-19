@@ -2298,6 +2298,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "GLOBO BR 2",
+                "url": "http://24.152.42.29:8000/play/a08s/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "SBT",
                 "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
@@ -2334,13 +2341,6 @@
                 "name": "MULTI SHOWS",
                 "url": "https://canaiss.fazoeli.co.za/token/0f459cc83b0495842b708ab04c921855/multishow.m3u8",
                 "icono": "https://i.postimg.cc/DZjfgFjF/images-(1).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GLOBO BR 2",
-                "url": "http://24.152.42.29:8000/play/a08s/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
