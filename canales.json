@@ -344,6 +344,13 @@
                 "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "OviedoTV",
+                "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+                "icono": "https://i.ibb.co/CKPLJC5b/1779191291821.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
