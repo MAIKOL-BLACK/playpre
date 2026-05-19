@@ -2305,6 +2305,18 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "GLOBO AMAZONICA",
+                "url": "https://agropesca.live/live/globoam/index.m3u8",
+                "icono": "https://i.postimg.cc/NjxJvTL9/download-17.jpg",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://rdcplayer.online",
+                    "Referer": "https://rdcplayer.online/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "SBT",
                 "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
@@ -2324,18 +2336,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "GLOBO AMAZONICA",
-                "url": "https://agropesca.live/live/globoam/index.m3u8",
-                "icono": "https://i.postimg.cc/NjxJvTL9/download-17.jpg",
-                "type": "HLS",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://rdcplayer.online",
-                    "Referer": "https://rdcplayer.online/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "name": "MULTI SHOWS",
