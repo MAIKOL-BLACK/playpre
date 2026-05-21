@@ -548,10 +548,11 @@
         "samples": [
             {
                 "name": "ESPN 1 SIN BLOQUEO",
-                "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5NDY0MjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0RpcHV0YWRvc19UVi9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZGMzNDIzNTMzYmFhNGYxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.5wy_bgcnGsTgGW3JuubtC6cRrW_EeczC7fBpCViZPy9PWND40mH3r8TWSaffan5yLBVVOwvSMUmqJXG9GIoREA==/live/c3eds/ESPN2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2HD.mpd",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2HD.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": []
             },
             {
                 "name": "ESPN 1",
