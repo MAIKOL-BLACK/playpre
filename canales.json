@@ -3,13 +3,6 @@
     "name": "FÚTBOL PARAGUAYO 🇵🇾",
     "samples": [
       {
-        "name": "LANC 3",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
-        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "LANC 3 OPC 2",
         "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.m3u8",
         "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
@@ -50,6 +43,13 @@
         "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+      },
+      {
+        "name": "EVENTO 3",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
+        "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
