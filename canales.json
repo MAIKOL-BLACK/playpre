@@ -372,13 +372,6 @@
         "name": "HOLDING TROVADOR DIGITAL",
         "samples": [
             {
-                "name": "TROVADOR TV DIGITAL",
-                "url": "https://video.streamradiomax.com/live/sk_raYKeztuWysqi3ZgRxSegPDM.m3u8",
-                "icono": "https://i.postimg.cc/bN3XD7St/Whats-App-Image-2026-04-26-at-3-19-21-PM.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "PROGRESO TV CARAPEGUA",
                 "url": "https://videostream.shockmedia.com.ar:19360/progresotv/progresotv.m3u8",
                 "icono": "https://i.postimg.cc/NMYbx0Wq/Whats-App-Image-2026-04-16-at-7-25-43-PM.jpg",
@@ -396,6 +389,13 @@
                 "name": "FUENTE PARAGUAY",
                 "url": "https://live20.bozztv.com/akamaissh101/ssh101/fuentetvhd/playlist.m3u8",
                 "icono": "https://i.postimg.cc/c4Zthb1z/Whats-App-Image-2026-04-26-at-3-22-50-PM-(2).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TROVADOR TV DIGITAL",
+                "url": "https://video.streamradiomax.com/live/sk_raYKeztuWysqi3ZgRxSegPDM.m3u8",
+                "icono": "https://i.postimg.cc/bN3XD7St/Whats-App-Image-2026-04-26-at-3-19-21-PM.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
