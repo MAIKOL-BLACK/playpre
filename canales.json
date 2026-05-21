@@ -358,6 +358,13 @@
                 "icono": "https://i.ibb.co/CKPLJC5b/1779191291821.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TVA OVIEDO",
+                "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090278_tvairepy.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
@@ -539,6 +546,13 @@
     {
         "name": "⚽DEPORTES ESPN Y FOX SPORTS AR🇦🇷",
         "samples": [
+            {
+                "name": "ESPN 1 SIN BLOQUEO",
+                "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5NDY0MjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0RpcHV0YWRvc19UVi9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZGMzNDIzNTMzYmFhNGYxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.5wy_bgcnGsTgGW3JuubtC6cRrW_EeczC7fBpCViZPy9PWND40mH3r8TWSaffan5yLBVVOwvSMUmqJXG9GIoREA==/live/c3eds/ESPN2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2HD.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
             {
                 "name": "ESPN 1",
                 "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5NDY0MjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0RpcHV0YWRvc19UVi9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZGMzNDIzNTMzYmFhNGYxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.5wy_bgcnGsTgGW3JuubtC6cRrW_EeczC7fBpCViZPy9PWND40mH3r8TWSaffan5yLBVVOwvSMUmqJXG9GIoREA==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
