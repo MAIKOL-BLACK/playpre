@@ -550,7 +550,7 @@
                 "name": "ESPN 1 SIN BLOQUEO",
                 "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2HD.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-                "type": "CLEARKEY",
+                "type": "HLS",
                 "drm_license_uri": "",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
