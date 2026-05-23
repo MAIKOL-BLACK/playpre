@@ -547,6 +547,13 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/bkm2nvvvwkf6jr1r0ymmi/clearkey_flow2.json?rlkey=tt9hei8jvhepijrzwphj29mv4&st=5ul69i2e&dl=0",
                 "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png"
+            },
+            {
+                "name": "GOLF CHANNEL ",
+                "url": "http://189.148.49.233:8000/play/a03j/index.m3u8",
+                "icono": "https://i.postimg.cc/jSRWPVDM/images-(1).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
