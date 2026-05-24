@@ -2098,6 +2098,39 @@
         ]
     },
     {
+        "name": "FANATIZ SPORTS EVENTOS",
+        "samples": [
+            {
+                "name": "FANATIZ 1",
+                "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 2",
+                "url": "https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 3",
+                "url": "https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 4",
+                "url": "https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "🎬CANALES DE NOVELAS",
         "samples": [
             {
@@ -2150,39 +2183,6 @@
                 "name": "TNT NOVELAS",
                 "url": "http://localhost.apppelis.es/solplay/75.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-novelas_ef3dd51ad12e4663aa99802657a5417f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "FANATIZ SPORTS EVENTOS",
-        "samples": [
-            {
-                "name": "FANATIZ 1",
-                "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 2",
-                "url": "https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 3",
-                "url": "https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 4",
-                "url": "https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
