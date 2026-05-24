@@ -492,6 +492,39 @@
         ]
     },
     {
+        "name": "FANATIZ SPORTS EVENTOS",
+        "samples": [
+            {
+                "name": "FANATIZ 1",
+                "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 2",
+                "url": "https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 3",
+                "url": "https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 4",
+                "url": "https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "⚽DEPORTES ESPN Y FOX SPORTS AR🇦🇷",
         "samples": [
             {
@@ -617,39 +650,6 @@
                 "name": "DIRECTV SPORT 2",
                 "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
                 "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "FANATIZ SPORTS EVENTOS",
-        "samples": [
-            {
-                "name": "FANATIZ 1",
-                "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 2",
-                "url": "https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 3",
-                "url": "https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 4",
-                "url": "https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
