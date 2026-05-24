@@ -2156,6 +2156,39 @@
         ]
     },
     {
+        "name": "FANATIZ SPORTS EVENTOS",
+        "samples": [
+            {
+                "name": "FANATIZ 1",
+                "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 2",
+                "url": "https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 3",
+                "url": "https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 4",
+                "url": "https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "TELEMUNDO Y UNIVERSO",
         "samples": [
             {
@@ -2190,39 +2223,6 @@
                 "name": "UNIVERSO",
                 "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
                 "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "FANATIZ SPORTS EVENTOS",
-        "samples": [
-            {
-                "name": "FANATIZ 1",
-                "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 2",
-                "url": "https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 3",
-                "url": "https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 4",
-                "url": "https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
