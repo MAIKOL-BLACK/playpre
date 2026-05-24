@@ -854,6 +854,13 @@
                 "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
             },
             {
+                "name": "TUDN USA",
+                "url": "http://185.56.109.251/Tudn/playlist.m3u8",
+                "icono": "https://i.ibb.co/PYrGvPt/tudn.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "WIN SPORTS",
                 "url": "http://live2.superteve.com:33527/livetv/9Wu6os8Dmg/369?token=SBpYUhVRG1sSVwIGCQBTA1YBWgBXU1UDVFZQUgsAAQgEWwNWUVsAUAEWSEZCQBAHA15mDFVGDARXW0hHRkdWQ2xRVBFcGwhRBAdTVRMYQBYLXlxHC1UBAFVTXVIAAwMdEUhZV0QDVxRcWEhGVEwWBxBdWAluAFNBCAEBRwlaRl1fFBJcCGZdBF1VCgATDkBTQB8bDEIUFA0PFwgJHxZRWEdKUUcDGwMPRVgISBNXDRcMR0scE14UZzhASEdWTEdUXUtZXAgbA0NER0ZIE10RPRBWShFDAVdaBBBGXxEFER0RVVFLOVpWD15RBxBYWwwRQAkbVRNIFFoODA0RXEZsQVpcEgkITFUNTQ==",
                 "type": "HLS",
@@ -889,13 +896,6 @@
                 "name": "FIFA+",
                 "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
                 "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TUDN USA",
-                "url": "http://185.56.109.251/Tudn/playlist.m3u8",
-                "icono": "https://i.ibb.co/PYrGvPt/tudn.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
