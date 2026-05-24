@@ -466,32 +466,6 @@
         ]
     },
     {
-        "name": "⚽EVENTOS FLOW ⚽",
-        "samples": [
-            {
-                "name": "EVENTOS FLOW 1",
-                "url": "https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5NzA4MDA1Iiwic2lwIjoiODQuMjUyLjExNC44IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0V2ZW50b3NfSERfVXkvU0FfTGl2ZV9kYXNoX2VuY18yTC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYzODNjZDkxMjZlOTAzMDgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.yG6PabBNuSzgELgXP2PwCBacsxgVQuXBYLFpjtsctTEdXYPhuinNQSCCnte4cWmgr06CQJfua1SwbiFvr7xZdw==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
-                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png"
-            },
-            {
-                "name": "EVENTOS FLOW 2",
-                "url": "https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5NzA4MDA1Iiwic2lwIjoiODQuMjUyLjExNC44IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0V2ZW50b3NfSERfVXkvU0FfTGl2ZV9kYXNoX2VuY18yTC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYzODNjZDkxMjZlOTAzMDgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.yG6PabBNuSzgELgXP2PwCBacsxgVQuXBYLFpjtsctTEdXYPhuinNQSCCnte4cWmgr06CQJfua1SwbiFvr7xZdw==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/bkm2nvvvwkf6jr1r0ymmi/clearkey_flow2.json?rlkey=tt9hei8jvhepijrzwphj29mv4&st=5ul69i2e&dl=0",
-                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png"
-            },
-            {
-                "name": "GOLF CHANNEL ",
-                "url": "http://189.148.49.233:8000/play/a03j/index.m3u8",
-                "icono": "https://i.postimg.cc/jSRWPVDM/images-(1).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "FANATIZ SPORTS EVENTOS",
         "samples": [
             {
@@ -519,6 +493,32 @@
                 "name": "FANATIZ 4",
                 "url": "https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8",
                 "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "⚽EVENTOS FLOW ⚽",
+        "samples": [
+            {
+                "name": "EVENTOS FLOW 1",
+                "url": "https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5NzA4MDA1Iiwic2lwIjoiODQuMjUyLjExNC44IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0V2ZW50b3NfSERfVXkvU0FfTGl2ZV9kYXNoX2VuY18yTC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYzODNjZDkxMjZlOTAzMDgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.yG6PabBNuSzgELgXP2PwCBacsxgVQuXBYLFpjtsctTEdXYPhuinNQSCCnte4cWmgr06CQJfua1SwbiFvr7xZdw==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
+                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png"
+            },
+            {
+                "name": "EVENTOS FLOW 2",
+                "url": "https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5NzA4MDA1Iiwic2lwIjoiODQuMjUyLjExNC44IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0V2ZW50b3NfSERfVXkvU0FfTGl2ZV9kYXNoX2VuY18yTC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYzODNjZDkxMjZlOTAzMDgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.yG6PabBNuSzgELgXP2PwCBacsxgVQuXBYLFpjtsctTEdXYPhuinNQSCCnte4cWmgr06CQJfua1SwbiFvr7xZdw==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/bkm2nvvvwkf6jr1r0ymmi/clearkey_flow2.json?rlkey=tt9hei8jvhepijrzwphj29mv4&st=5ul69i2e&dl=0",
+                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png"
+            },
+            {
+                "name": "GOLF CHANNEL ",
+                "url": "http://189.148.49.233:8000/play/a03j/index.m3u8",
+                "icono": "https://i.postimg.cc/jSRWPVDM/images-(1).jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
