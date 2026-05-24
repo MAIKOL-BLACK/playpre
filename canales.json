@@ -2342,32 +2342,6 @@
         ]
     },
     {
-        "name": "EVENTOS PRUEBAS⚽️",
-        "samples": [
-            {
-                "name": "Evento 1",
-                "url": "http://177.53.152.117:8000/play/a07t/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Evento 2",
-                "url": "http://177.53.152.117:8000/play/a07l/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Evento 3",
-                "url": "http://177.53.152.117:8000/play/a07h/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "FANATIZ SPORTS EVENTOS",
         "samples": [
             {
@@ -2395,6 +2369,32 @@
                 "name": "FANATIZ 4",
                 "url": "https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8",
                 "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "EVENTOS PRUEBAS⚽️",
+        "samples": [
+            {
+                "name": "Evento 1",
+                "url": "http://177.53.152.117:8000/play/a07t/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Evento 2",
+                "url": "http://177.53.152.117:8000/play/a07l/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Evento 3",
+                "url": "http://177.53.152.117:8000/play/a07h/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
