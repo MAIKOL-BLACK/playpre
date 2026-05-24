@@ -1960,6 +1960,39 @@
         ]
     },
     {
+        "name": "FANATIZ SPORTS EVENTOS",
+        "samples": [
+            {
+                "name": "FANATIZ 1",
+                "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 2",
+                "url": "https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 3",
+                "url": "https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FANATIZ 4",
+                "url": "https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "CULTURA Y COCINA 🐢",
         "samples": [
             {
@@ -2094,39 +2127,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://www.totalmedios.com/img/noticias/2020/07/5efc74e42ba7b__838x390.jpg",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d"
-            }
-        ]
-    },
-    {
-        "name": "FANATIZ SPORTS EVENTOS",
-        "samples": [
-            {
-                "name": "FANATIZ 1",
-                "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 2",
-                "url": "https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 3",
-                "url": "https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FANATIZ 4",
-                "url": "https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
