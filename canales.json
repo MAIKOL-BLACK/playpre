@@ -17,6 +17,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
             },
             {
+                "name": "LANC 5",
+                "url": "http://45.170.130.224:8000/play/a04k/index.m3u8",
+                "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "LANC 3",
                 "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
                 "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
@@ -35,13 +42,6 @@
                 "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
                 "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LANC 5",
-                "url": "http://45.170.130.224:8000/play/a04k/index.m3u8",
-                "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-                "type": "HLS",
                 "drm_license_uri": ""
             },
             {
@@ -269,6 +269,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
+            },
+            {
+                "name": "MAS TV",
+                "url": "https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8",
+                "icono": "En Vivo - Más TV https://share.google/V8Kws9zw2EhIBnIvQ",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
