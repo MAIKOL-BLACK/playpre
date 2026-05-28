@@ -685,7 +685,7 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0dd493fa74640442abd75139b67307d6&key=31cf4295392d939a97f3b60ebf1ceb44",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
