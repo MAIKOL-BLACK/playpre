@@ -332,6 +332,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "5 TV MAX",
+                "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+                "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "LA TELE HD",
                 "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
@@ -349,13 +356,6 @@
                 "name": "MONUMENTAL AM 1080 TV",
                 "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "5 TV MAX",
-                "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-                "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
