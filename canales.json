@@ -690,6 +690,13 @@
                 }
             },
             {
+                "name": "DIRECTV SPORT 2",
+                "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "DIRECTV SPORT",
                 "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
                 "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
@@ -708,13 +715,6 @@
                 "url": "https://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd",
                 "icono": "http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DIRECTV SPORT 2",
-                "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
-                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
