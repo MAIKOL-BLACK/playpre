@@ -667,13 +667,13 @@
             },
             {
                 "name": "DIRECTV FLOW",
-                "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/c3eds/DSports_1/SA_Live_dash_cenc/DSports_1.mpd",
+                "url": "https://edge-live13-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDcyNzE5Iiwic2lwIjoiODkuMTE3LjQxLjIxMiIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9EU3BvcnRzXzEvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3NjRmMDYwNzUwMzI4YzY3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjY2Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.y08_0qR05CZ_MEso2Hodjt_yD_25zlYtk1kxLcHzyfEHzVSWnYeDUlfNFgnsPmj8pizkHknMpkqbkhV5eOOAHQ==/live/c3eds/DSports_1/SA_Live_dash_enc/DSports_1.mpd",
                 "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=4db80473af2ed318c41d879f2822203e&key=d30f94e60344adf0f4b242a5952575ad",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/guia-de-tv",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
