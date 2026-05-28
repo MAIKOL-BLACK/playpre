@@ -238,6 +238,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png"
             },
             {
+                "name": "A24 PY",
+                "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8"
+            },
+            {
                 "name": "UNION TV",
                 "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
                 "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png"
@@ -255,13 +262,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45"
-            },
-            {
-                "name": "A24 PY",
-                "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8"
             },
             {
                 "name": "LA TELE",
